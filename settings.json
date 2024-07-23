@@ -1,0 +1,7 @@
+{
+    "python.analysis.diagnosticMode": "workspace",
+    "python.analysis.disabled": [
+        "unresolved-import",
+        "undefined-variable"
+    ]
+}

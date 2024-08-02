@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: python-app
-        image: your-dockerhub-username/your-app-name:latest
+        image: rifahakhan/image:latest
         ports:
         - containerPort: 80
